@@ -48,7 +48,7 @@ div, a {
 /*small*/
     @media screen and (max-width:768px) {
     html {
-        font-size: 1vh;
+        font-size: .8vh;
     }
 
     #lnav {
